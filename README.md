@@ -1,16 +1,30 @@
-# `𝙏𝙝𝙚 AL SOLTAN-BOT` 
 
-# `حقوقك في config.js وتعامل البوت حقك من الان` 
-<p align="center">
-<img src="[https://telegra.ph/file/bda9ed97f962db2e7f154.jpg]([https://telegra.ph/file/6c8064983cd7e01123262.jpg](https://telegra.ph/file/6c8064983cd7e01123262.jpg))" alt="By Youssef Al Soltan" width="900"/>
+<p align="center">  
+  <a href="https://youtu.be/WcA7GZuaN0A">
+    <img alt="Guru" height="300" src="https://telegra.ph/file/8ecac1bcf60c6c172076a.jpg">
+    <h1 align="center">Gojo bot </h1>
+  </a>
 </p>
+<p align="center">
+<a href="https://wa.me/+201016948771"><img title="Author" src="https://img.shields.io/badge/gojo bot-blue?style=for-the-badge&logo=whatsapp"></a>
+<p/>
 
-------------------
-> **ملاحظة**: أنا "السلطان"، تقاعدت من كل ما يتعلق بالبوت أو المواضيع المشابهة، لذا في مرحلة ما سيصبح قديمًا و/أو ستتوقف بعض الأوامر عن العمل.  أنا أقدر تفضيلك خلال الرحلة عبر عالم الروبوتات هذا.
+####  
+Klever Bot whatsapp bot.
 
-> دعم بوت السلطان يتم ترك الأمر في أيدي المتعاونين، وباعتباره الممثل الرئيسي 
-------------------
+***
 
-> اللغه الرئيسيه التي اشتغل عليها المطور هي *العربيه*
+#### SETUP
 
-###
+1. احفظ الاسكربت
+    <br>
+<a href='https://github.com/Hashira0h/otherthing/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+2. اعمل سكان للكيو أر كود
+    <br>
+<a href='https://replit.com/@Hashira0h/gojo1?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+
+ **Arigato <3** |[My YT Channel](https://www.youtube.com/channel/UCATmEiG0bFIo4cP-ZihoPAQ#thanks-to) | 
+
+
+
