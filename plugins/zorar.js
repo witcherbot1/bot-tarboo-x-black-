@@ -6,42 +6,42 @@ viewOnceMessage: {
 message: {
 interactiveMessage: {
 header: {
-title: '> *﹝⟣┈┈┈⟢﹝🍄﹞⟣┈┈┈⟢﹞*\n> *✨اهلا {m.pushName}$ تفضل قائمه اوامر بوت الـتربـو✨*\n> *• اسم البوت: بوت الـتربـو*\n> *• اسم المطور: مـحمـود الـتربـو*\n> *• وَنَجّنَا بِرَحْمَتِكَ مِنَ القوم الكافرين*\n> *﹝⟣┈┈┈⟢﹝🍄﹞⟣┈┈┈⟢﹞*'
+title: '> *✧────[ 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 ]────✧*\n> *🤴🏻 المطور :*𝑬𝐿𝑻𝑨𝑹𝑩𝑶𝑶*\n> **✅ الاصدار :*${vs}\n> *🎳 البادئة :*${usedPrefix}*\n> *🔐 الشات الخاص :*${groups.length}*\n> *📆 التاريخ :*${date}*\n*🚀 وقت التشغيل :*${uptime}*\n> *🐢 السرعة :*${speed}*\n*✧────[ 𝐁𝐎𝐓_𝐓𝐀𝐑𝐁𝐎𝐎 ]────✧*'
  },
  body: {
- text: '> *`افتح القائمة بواسطه الزر`🔘*\n\n> *Copyright©* 2024 Youssef Al Soltan.'
+ text: '> *`افتح القائمة بواسطه الزر`🔘*\n\n> *Copyright©* 2024 Mahmoud Al Tarboo.'
   },
   nativeFlowMessage: {
   buttons: [
    {
   name: 'single_select',
   buttonParamsJson: JSON.stringify({
-  title: '📝 القائمة 📝',
+  title: ' 📜MENU📜',
   sections: [
   {
   title: '✨قائمة الأوامر✨',
-  highlight_label: 'بوت الـتربـو',
+  highlight_label: '𝐁𝐎𝐓_𝐓𝐀𝐑𝐁𝐎𝐎',
   rows: [
   {
-  header: 'صانع البوت👤',
-  title: 'الـمطور👾',
+  header: 'OWNER',
+  title: 'الـمطور🤖',
   description: '',
   id: '.المطور'
   },
   {
-  header: 'خصوصيه استخدام البوت❔❕',
+  header: 'PRIVACY',
   title: 'الاسـتخدام📜',
   description: '',
   id: '.الاستخدام'
   },
   {
-  header: 'ابلاغ او ارسال رساله للمطور💭',
+  header: 'REBORT',
   title: 'طـلـب ابـلاغ📨',
   description: '',
   id: '.بلاغ'
   },
   {
-  header: 'اوامر البوت🔖',
+  header: 'LIST OF COMMANDS ',
   title: 'طـلـب الاوامـر📑',
   description: '',
   id: '.مهام'
@@ -55,9 +55,9 @@ title: '> *﹝⟣┈┈┈⟢﹝🍄﹞⟣┈┈┈⟢﹞*\n> *✨اهلا {m.pu
   {
                                 name: "cta_url",
                                 buttonParamsJson: JSON.stringify({
-                                    display_text: "قنـاة الـواتـساب📣",
-                                    url: "https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M",
-                                    merchant_url: "https://whatsapp.com/channel/0029VaL2bnW0rGiPZq8B5S2M"
+                                    display_text: "جروب💫 الدعم💫",
+                                    url: "https://chat.whatsapp.com/HTAcYFJ19sC07ykgnKqBzp",
+                                    merchant_url: "https://chat.whatsapp.com/HTAcYFJ19sC07ykgnKqBzp"
   })
   }
   ]
