@@ -3,8 +3,7 @@ let handler = async (m, { conn, args, text, usedPrefix, command }) => {
 
   if (!text) throw too
   let lr = (`https://api.popcat.xyz/biden?text=${encodeURIComponent(text)}`)
-  conn.sendFile(m.chat, lr, 'drake.png', `تم بواسطه ✅
-  𝑍𝐸𝑍𝛩`, m)
+  conn.sendFile(m.chat, lr, 'drake.png', `تم بواسطه 𝑻𝑨𝑹𝑩𝑶𝑶`, m)
 }
 handler.help = ['بايدن']
 handler.tags = ['maker']
